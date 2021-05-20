@@ -8,6 +8,7 @@ Financial technology (FinTech) is a term used to describe the usage and advancem
 
 This case study will focus on one of the unicorns of Fintech industry, **Wise, a company that provides remittance and money transfer services.** To put in context, remittance means to send money from a domestic account to a foreign account and money transfer means to send money from one account to another account which can be domestic or international. This would make remittance a subset of money transfer.
 <br>
+
 ## <span style="color:#2e4369">**Overview and Origin**</span>
 
 ### <span style="color:#2e4369">**Name of the company**</span>
@@ -26,7 +27,7 @@ Wise was incorporated 10 years ago in *January 2011*. It is headquartered in *Lo
 
 ![Founders](images/wise_founders.jpeg)
 
-### <span style="color:#2e4369">****</span>
+### <span style="color:#2e4369">**How did the idea for the company (or project) come about?**</span>
 
 Like most great products, Wise was created to solve the founders’ problem. When Taavet Hinrikus and Kristo Käärmann were sending money between the UK and their home country of Estonia, a lot less money arrived than expected. Each time the bank took a fee, hidden inside the exchange rate.
 
@@ -56,6 +57,7 @@ Wise has received multiple rounds of funding, detailed in the table below.
 | May 2019      	| $292 million  	| Lead Edge Capital, Lone Pine Capital                                                                           	|
 | July 2020     	| $319 million  	| D1 Capital Partners, Lone Pine Capital, Vulcan Capital                                                         	|
 <br>
+
 ## <span style="color:#2e4369">**Business Activities**</span>
 
 ### <span style="color:#2e4369">**What specific financial problem is the company or project trying to solve?**</span>
@@ -125,6 +127,7 @@ Wise platform team structure can be understood with the help of the diagram belo
 5. Rockets zoom between our planets — these represent the teams that work across multiple squads and act as boosters to teams and other tribes (Platform Integrations and Observability).
 6. We also have some comets in orbit, these curious cosmic snowballs may yield clues about the formation of our solar system — these represent the teams that surface insights with Wise data (Machine Learning and Analytics Platform)
 <br>
+
 ## <span style="color:#2e4369">**Landscape**</span>
 
 ### <span style="color:#2e4369">**What domain of the financial industry is the company in?**</span>
